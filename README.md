@@ -30,6 +30,16 @@ streamlit run app.py
 
 Opens at http://localhost:8501
 
+
+https://github.com/user-attachments/assets/6010871a-7039-4320-8bec-c421c20b9b3c
+
+
+
+
+
+
+
+
 ## Notes
 - Models: `openai/gpt-oss-20b` (default, fast) or `openai/gpt-oss-120b`.
   Verify the current list at https://console.groq.com/docs/models
